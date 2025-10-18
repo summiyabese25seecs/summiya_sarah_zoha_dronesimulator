@@ -8,6 +8,28 @@ Delivery Drone Simulator FOCP Assignment 1
   - Sarah Shahid (546132)  
   - Zoha Ahsan (545764)
 
+  **Summiya Aurangzeb:**  
+                      Define your role here.   
+
+  **Sarah Shahid:**  
+                      Define your role here.  
+
+  **Zoha Ahsan:**  
+                      Define your role here.   
+                      
+## Problem Description and Overview:
+
+
+
+
+
+
+
+                         
+                    
+                  
+
+
 
 
 
