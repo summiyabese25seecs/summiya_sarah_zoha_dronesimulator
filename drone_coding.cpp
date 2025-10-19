@@ -1,9 +1,13 @@
+//Drone Simulator 
 #include <iostream>
+#include <ctime> //for time variable 
 using namespace std;
 
 int main() {
-    cout << "My GitHub C++ setup works!" << endl;
-    cout << "My GitHub C++ setup works!" << endl;
+    int srand(time(0));
+    int weather = (rand()%2)+1;
+    cout<<weather;
     
+     
     return 0;
 }
