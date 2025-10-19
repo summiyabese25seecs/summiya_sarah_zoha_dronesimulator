@@ -17,7 +17,8 @@ Delivery Drone Simulator FOCP Assignment 1
        
 
   **Zoha Ahsan:**    
-                        **Logic Designer** : Designs flowchart and logic conditions. 
+                        **Logic Designer** : Creates detailed flowchart outlining program's logic to guide to development.  
+                        
                       
 ## Problem Description and Overview:
 This programme is based on a real life task. Shopping from home is very feasible so many improvements are being made in this domain.
