@@ -13,10 +13,11 @@ Delivery Drone Simulator FOCP Assignment 1
                    
 
   **Sarah Shahid:**  
-                      Define your role here.  
+                                       Define your role here.   
+       
 
-  **Zoha Ahsan:**  
-                      Define your role here.   
+  **Zoha Ahsan:**    
+                        **Logic Designer** : Designs flowchart and logic conditions. 
                       
 ## Problem Description and Overview:
 This programme is based on a real life task. Shopping from home is very feasible so many improvements are being made in this domain.
