@@ -9,30 +9,55 @@ Delivery Drone Simulator FOCP Assignment 1
   - Zoha Ahsan (545764)
 
   **Summiya Aurangzeb:**  
-                    **Programme Manager** :  Manages Readme on GIT, tests code, and summarizes AI tool usage.   
+                  **Programme Manager** :  Managed Readme on GIT, tested code, and summarized AI tool usage.   
                    
 
   **Sarah Shahid:**  
-                 **Documentation Manager** : Managing all documentation procedure, also a programmer.  
+                 **Documentation Manager** : Managed all documentation procedure, also a programmer.  
 
                  
   **Zoha Ahsan:**    
-                        **Logic Designer** : Creates detailed flowchart outlining program's logic to guide to development.  
+                  **Logic Designer** : Created detailed flowchart outlining program's logic to guide to development, also a programmer.  
                         
                       
 ## Problem Description and Overview:
 This programme is based on a real life task. Shopping from home is very feasible so many improvements are being made in this domain.
 In coming future, drones would be used to deliver the goods to avoid human effort.  
-*SUMMARY:*  
+- *SUMMARY:*  
 A drone is used to make deliveries to different destinations. The drone takes input from the user about the delivery destination then checks various conditions like *weather , weight of the delivery , battery charging and traffic*. The number of deliveries made and the time duration for each delivery is affected by the conditions.   
-*HOW IT IS INTERESTING:*  
+- *HOW IT IS INTERESTING:*  
 This programme is interesting in the sense that it allows us to create and use our own functions. The logic building of this programme requires a high level of creativity which challenges our logical and creative mindsets. Above all, this project taught us team coordination and collaboration, which was both enagaging and tough.   
 
 ## Program Design and Logic:  
 
 ## Execution Instructions:  
+The code is majorly based on functions so it was compiled by using every member's functions. Each member tested their functions outputr
 
-## Team Collaboration Summary:
+## Team Collaboration Summary:  
+**Division of Roles:**  
+The roles were divided in such a way that all members contributed in the management of the readme file and the document. In this way each person got hands-on experience on Github and Readme file. Each member was made the manager of one main task, who kept the uniformity in the documentation.  
+As for the code writing, each member made some functions using the flowchart and assignment manual. Each memeber wrote an individual and unique code body while the final code was made by compiling all three codes and modifying them.  
+
+**(1)** Summiya Aurangzeb:  
+- Created a public repository with name: summiya_sarah_zoha_dronesimulator
+- Added the team members as collaborators.
+- add pic of commit
+- Created Readme file and made the first commit on it.
+- Wrote the function get_weather and checkObstacle in the code.
+- add pic of code
+- Assisted the members in compliation of code and testing it.
+  
+**(2)** Sarah Shahid:  
+- Created a shared Google Document so that all team members could edit and document the progress.
+- add pic
+- code
+
+**(3)** Zoha Ahsan:  
+- Flowchart. funcs. code
+-
+-
+
+
 
 
 ## Usage of AI and Reflection:
