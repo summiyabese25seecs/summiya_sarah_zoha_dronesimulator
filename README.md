@@ -31,7 +31,12 @@ This programme is interesting in the sense that it allows us to create and use o
 ## Program Design and Logic:  
 
 ## Execution Instructions:  
-The code is majorly based on functions so it was compiled by using every member's functions. Each member tested their functions outputr
+1) Every Member wrote their own sample codes.
+2) Team members kept each other updated by adding screenshots of code and outputs on the document.
+3) The Readme tasks were divided among the members and were updated regularly.
+4) Each member was made manager of one main task. like **managing Readme, managing document and managing codes**.
+5) Each member uploaded a word documnet in the repository containing their sample codes to share with other members.
+6) The final code was compiled by using parts of everyone's version of code.
 
 ## Team Collaboration Summary:  
 **Division of Roles:**  
@@ -46,11 +51,17 @@ As for the code writing, each member made some functions using the flowchart and
 - Wrote the function get_weather and checkObstacle in the code.
 - add pic of code
 - Assisted the members in compliation of code and testing it.
+- Compiled and wrote *Roles, Execution, Collaboration and Problem overview*.
+- Created her version of code.
+- 
   
 **(2)** Sarah Shahid:  
 - Created a shared Google Document so that all team members could edit and document the progress.
 - add pic
-- code
+- Created her version of code.
+- Assisted the members in compliation of code and testing it.
+- Wrote the 'improvement of code' part on README.
+- 
 
 **(3)** Zoha Ahsan:  
 - Made a detailed flowchart that served as a base to generate a successful code.
@@ -58,12 +69,13 @@ As for the code writing, each member made some functions using the flowchart and
 - Worked on readme and wrote usage of AI by all members.
 - Wrote the list of functions used in the code in the project design part in readme.
 - Assisted the members in compliation of code and testing it.
+- Created her version of code.
 
 ## Usage of AI and Reflection:
 - used gpt to understand about the markdown in git readme file. (its specific syntax) It told us about the basic  markdown syntax.
 - Used gpt to manage the pic size in readme.
 - used gpt to understand how to make void functions and how to call them.
-- used internet to learn how to generate a random boolean, either a 0 or 1.
+- used gpt to fix the delayed counter by adding another bool variable.
 - understanding version control on github, how to save versions locally and remotely.
 - used gpt to understand the syntax of using srand(time(0)) in main function so it can generate new random value each time the nested loop runs.
 
