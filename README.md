@@ -53,16 +53,20 @@ As for the code writing, each member made some functions using the flowchart and
 - code
 
 **(3)** Zoha Ahsan:  
-- Flowchart. funcs. code
--
--
-
-
-
+- Made a detailed flowchart that served as a base to generate a successful code.
+- Created her own version of code's beginning so all members can get familiar with the logics of eachother and finalize one single version of code.
+- Worked on readme and wrote usage of AI by all members.
+- Wrote the list of functions used in the code in the project design part in readme.
+- Assisted the members in compliation of code and testing it.
 
 ## Usage of AI and Reflection:
+- used gpt to understand about the markdown in git readme file. (its specific syntax) It told us about the basic  markdown syntax.
+- Used gpt to manage the pic size in readme.
+- used gpt to understand how to make void functions and how to call them.
+- used internet to learn how to generate a random boolean, either a 0 or 1.
+- understanding version control on github, how to save versions locally and remotely.
+- used gpt to understand the syntax of using srand(time(0)) in main function so it can generate new random value each time the nested loop runs.
 
-  
 ## Future Improvements:  
  - For now, the code has been written using just conditionals, loops and mainly using functions to create modules. However, the code could have been made much shorter and cleaner if arrays had been used. For instance, we worked with 3 locations but had it been 50 locations, we would have had to write 50 lines manually calling the function for checking conditions for all locations separately. Arrays would also have made it easier to track which location had which result and then display all results at the end.
  - Currently, when the program exits, all days data is lost but using file handling, it would have been possible to write logs of every day’s deliveries to a text file so that they would be read or used later, which is much more realistic for real-world drone delivery systems.
