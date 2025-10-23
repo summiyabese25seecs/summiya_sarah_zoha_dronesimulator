@@ -46,7 +46,7 @@ As for the code writing, each member made some functions using the flowchart and
 **(1)** Summiya Aurangzeb:  
 - Created a public repository with name: summiya_sarah_zoha_dronesimulator
 - Added the team members as collaborators.
-- add pic of commit
+- ![Alt Text](https://github.com/summiyabese25seecs/summiya_sarah_zoha_dronesimulator/blob/main/Screenshot%202025-10-24%20011020.png?raw=true)
 - Created Readme file and made the first commit on it.
 - Wrote the function get_weather and checkObstacle in the code.
 - add pic of code
