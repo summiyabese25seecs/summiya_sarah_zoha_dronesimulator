@@ -46,22 +46,23 @@ As for the code writing, each member made some functions using the flowchart and
 **(1)** Summiya Aurangzeb:  
 - Created a public repository with name: summiya_sarah_zoha_dronesimulator
 - Added the team members as collaborators.
-- ![Alt Text](https://github.com/summiyabese25seecs/summiya_sarah_zoha_dronesimulator/blob/main/Screenshot%202025-10-24%20011020.png?raw=true)
 - Created Readme file and made the first commit on it.
 - Wrote the function get_weather and checkObstacle in the code.
 - add pic of code
 - Assisted the members in compliation of code and testing it.
 - Compiled and wrote *Roles, Execution, Collaboration and Problem overview*.
 - Created her version of code.
-- 
+ ![Alt Text](https://github.com/summiyabese25seecs/summiya_sarah_zoha_dronesimulator/blob/main/Screenshot%202025-10-24%20011020.png?raw=true)
+ 
   
 **(2)** Sarah Shahid:  
 - Created a shared Google Document so that all team members could edit and document the progress.
-- add pic
 - Created her version of code.
 - Assisted the members in compliation of code and testing it.
 - Wrote the 'improvement of code' part on README.
-- 
+   ![Alt Text](https://raw.githubusercontent.com/summiyabese25seecs/summiya_sarah_zoha_dronesimulator/83518ced18da51cccb5de0c0ad37048b13b293b1/Screenshot%202025-10-24%20011312.png)
+  
+ ![Alt Text](https://raw.githubusercontent.com/summiyabese25seecs/summiya_sarah_zoha_dronesimulator/83518ced18da51cccb5de0c0ad37048b13b293b1/Screenshot%202025-10-24%20011239.png) 
 
 **(3)** Zoha Ahsan:  
 - Made a detailed flowchart that served as a base to generate a successful code.
@@ -70,6 +71,8 @@ As for the code writing, each member made some functions using the flowchart and
 - Wrote the list of functions used in the code in the project design part in readme.
 - Assisted the members in compliation of code and testing it.
 - Created her version of code.
+
+  ![Alt Text](https://raw.githubusercontent.com/summiyabese25seecs/summiya_sarah_zoha_dronesimulator/83518ced18da51cccb5de0c0ad37048b13b293b1/Screenshot%202025-10-24%20011213.png)
 
 ## Usage of AI and Reflection:
 - used gpt to understand about the markdown in git readme file. (its specific syntax) It told us about the basic  markdown syntax.
