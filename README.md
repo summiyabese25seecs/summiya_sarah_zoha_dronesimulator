@@ -17,7 +17,7 @@ Delivery Drone Simulator FOCP Assignment 1
 
                  
   **Zoha Ahsan:**    
-                  **Logic Designer** : Created detailed flowchart outlining program's logic to guide to development, also a programmer.  
+                  **Logic Designer** : Created detailed flowchart outlining program's logic to guide to development, summarized AI tool usage, also a programmer.  
                         
                       
 ## Problem Description and Overview:
@@ -29,7 +29,24 @@ A drone is used to make deliveries to different destinations. The drone takes in
 This programme is interesting in the sense that it allows us to create and use our own functions. The logic building of this programme requires a high level of creativity which challenges our logical and creative mindsets. Above all, this project taught us team coordination and collaboration, which was both enagaging and tough.   
 
 ## Program Design and Logic:  
-
+**Functions overview** :  
+The functions used in the code are:
+- void startDay() : Displays Good Morning message, initial battery and locations for delivery.
+- void deliverpackage() : checks conditions for delivery locations.
+- int checkweather() : checks the weather conditions of the delivery paths of locations.
+- string tellweather () : Returns a text description of current weather condition detected by int checkweather ().
+- bool checkobstacle() : checks whether there are some obstacles in the way or not.
+- string tellobstacle () : Returns a text description of current obstacle condition detected by int checkobstacle ().
+- int batterydrain () : checks the drainage of battery during flight.
+- void tellbatterydrain () : Returns a text description of current battery condition detected by int batterydrain ().
+- int checkload () : checks the weight of load to ensure smooth delivery.
+- int rand_malfunction() : checks the 10% probablity of system malfunction.
+- void displaySummary () : displays the remaining battery and sucesful, failed and delayed deliveries.
+**Random Environmental Simulation Logic** :
+- WEATHER: Random integer (1 - 3) generated a weather condition ; sunny, windy, rainy.
+- OBSTACLE: Using rand that gives two conditions; obstacle is present and obsacle is absent.
+- BATTERY DRAIN: Extra battery drain depending on weather conditions and presence of obstacles. 
+- HEAVY LOAD WARNING: checks random value (1 - 5) because the probablity is 20%.
 ## Execution Instructions:  
 1) Every Member wrote their own sample codes.
 2) Team members kept each other updated by adding screenshots of code and outputs on the document.
@@ -69,6 +86,7 @@ As for the code writing, each member made some functions using the flowchart and
 - Created her own version of code's beginning so all members can get familiar with the logics of eachother and finalize one single version of code.
 - Worked on readme and wrote usage of AI by all members.
 - Wrote the list of functions used in the code in the project design part in readme.
+- Wrote the start day and display summary function in code.
 - Assisted the members in compliation of code and testing it.
 - Created her version of code.
 
