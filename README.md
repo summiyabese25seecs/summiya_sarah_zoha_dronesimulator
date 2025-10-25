@@ -75,8 +75,12 @@ As for the code writing, each member made some functions using the flowchart and
   
 **(2)** Sarah Shahid:  
 - Created a shared Google Document so that all team members could edit and document the progress.
+- Finalized the report of the assignment to ensure all requirements were met.
+- Attached necessary screenshots of each step in our report.
 - Created her version of code.
+- Wrote the deliverpackage() function which is the condition-checking and decision-making block of code and made sure all possible conditions were taken care of.
 - Assisted the members in compliation of code and testing it.
+- Ran multiple test runs when the code was finalized and made sure there were no bugs.
 - Wrote the 'improvement of code' part on README.
    ![Alt Text](https://raw.githubusercontent.com/summiyabese25seecs/summiya_sarah_zoha_dronesimulator/83518ced18da51cccb5de0c0ad37048b13b293b1/Screenshot%202025-10-24%20011312.png)
   
@@ -89,7 +93,6 @@ As for the code writing, each member made some functions using the flowchart and
 - Wrote the list of functions used in the code in the project design part in readme.
 - Wrote the start day and display summary function in code.
 - Assisted the members in compliation of code and testing it.
-- Created her version of code.
 
   ![Alt Text](https://raw.githubusercontent.com/summiyabese25seecs/summiya_sarah_zoha_dronesimulator/83518ced18da51cccb5de0c0ad37048b13b293b1/Screenshot%202025-10-24%20011213.png)
 
@@ -102,7 +105,7 @@ As for the code writing, each member made some functions using the flowchart and
 - used gpt to understand the syntax of using srand(time(0)) in main function so it can generate new random value each time the nested loop runs.
 
 ## Future Improvements:  
- - For now, the code has been written using just conditionals, loops and mainly using functions to create modules. However, the code could have been made much shorter and cleaner if arrays had been used. For instance, we worked with 3 locations but had it been 50 locations, we would have had to write 50 lines manually calling the function for checking conditions for all locations separately. Arrays would also have made it easier to track which location had which result and then display all results at the end.
+ - For now, the code has been written using just conditionals, loops and mainly using functions to create modules. However, the code could have been made much shorter and cleaner if arrays had been used. For instance, we worked with 3 locations but had it been 50 locations, we would have had to write 50 lines manually calling the function for checking conditions for all locations separately. Arrays would also have made it easier to track which location had which result and then display all results at the end
  - Currently, when the program exits, all days data is lost but using file handling, it would have been possible to write logs of every day’s deliveries to a text file so that they would be read or used later, which is much more realistic for real-world drone delivery systems.
  - Together these two programming constructs would have made the code very automated, concise and effective which would have required very little printing or manual repetition.
 
