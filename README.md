@@ -9,7 +9,7 @@ Delivery Drone Simulator FOCP Assignment 1
   - Zoha Ahsan (545764)
 
   **Summiya Aurangzeb:**  
-                  **Programme Manager** :  Managed Readme on GIT, tested code, and summarized AI tool usage.   
+                  **Program Manager** :  Managed Readme on GIT, tested code and summarized AI tool usage.   
                    
 
   **Sarah Shahid:**  
@@ -17,12 +17,12 @@ Delivery Drone Simulator FOCP Assignment 1
 
                  
   **Zoha Ahsan:**    
-                  **Logic Designer** : Created detailed flowchart outlining program's logic to guide to development, summarized AI tool usage, also a programmer.  
+                  **Logic Designer** : Created detailed flowchart outlining program's logic from guide to development, summarized AI tool usage, also a programmer.  
                         
                       
 ## Problem Description and Overview:
-This programme is based on a real life task. Shopping from home is very feasible so many improvements are being made in this domain.
-In coming future, drones would be used to deliver the goods to avoid human effort.  
+This programme is based on a real life task. Shopping from home is very convenient, which is why many improvements are being made in this domain.
+In coming future, drones will be used to deliver goods to avoid human effort.  
 - *SUMMARY:*  
 A drone is used to make deliveries to different destinations. The drone takes input from the user about the delivery destination then checks various conditions like *weather , weight of the delivery , battery charging and traffic*. The number of deliveries made and the time duration for each delivery is affected by the conditions.   
 - *HOW IT IS INTERESTING:*  
@@ -105,8 +105,8 @@ As for the code writing, each member made some functions using the flowchart and
 
 ## Future Improvements:  
  - For now, the code has been written using just conditionals, loops and mainly using functions to create modules. However, the code could have been made much shorter and cleaner if arrays had been used. For instance, we worked with 3 locations but had it been 50 locations, we would have had to write 50 lines manually calling the function for checking conditions for all locations separately. Arrays would also have made it easier to track which location had which result and then display all results at the end
- - Currently, when the program exits, all days data is lost but using file handling, it would have been possible to write logs of every day’s deliveries to a text file so that they would be read or used later, which is much more realistic for real-world drone delivery systems.
- - Together these two programming constructs would have made the code very automated, concise and effective which would have required very little printing or manual repetition.
+ - Currently, when the program exits, all days data is lost but using file handling, it would have been possible to write logs of every day’s deliveries to a text file so such that they would be read or used later, which is much more realistic for real-world drone delivery systems.
+ - Together, these two programming constructs would have made the code very automated, concise and effective which would have required very little printing or manual repetition.
 
 
 
