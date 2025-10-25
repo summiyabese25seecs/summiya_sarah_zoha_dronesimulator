@@ -42,6 +42,7 @@ The functions used in the code are:
 - int checkload () : checks the weight of load to ensure smooth delivery.
 - int rand_malfunction() : checks the 10% probablity of system malfunction.
 - void displaySummary () : displays the remaining battery and sucesful, failed and delayed deliveries.
+
 **Random Environmental Simulation Logic** :
 - WEATHER: Random integer (1 - 3) generated a weather condition ; sunny, windy, rainy.
 - OBSTACLE: Using rand that gives two conditions; obstacle is present and obsacle is absent.
