@@ -66,7 +66,6 @@ As for the code writing, each member made some functions using the flowchart and
 - Added the team members as collaborators.
 - Created Readme file and made the first commit on it.
 - Wrote the function get_weather and checkObstacle in the code.
-- add pic of code
 - Assisted the members in compliation of code and testing it.
 - Compiled and wrote *Roles, Execution, Collaboration and Problem overview*.
 - Created her version of code.
